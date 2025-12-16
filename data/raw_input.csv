@@ -1,0 +1,16 @@
+name,title,company,source,person_location,company_hq,funding_stage,recent_paper,tech_used,linkedin_url
+John Miller,Director of Toxicology,HepatoBio,LinkedIn,Boston MA,Cambridge MA,Series B,Yes,In-vitro models,https://linkedin.com/in/johnmiller
+Sarah Thompson,Head of Preclinical Safety,LiverTech,PubMed,Cambridge MA,Cambridge MA,Series A,Yes,Organ-on-chip,https://linkedin.com/in/sarahth
+Michael Chen,VP Safety Assessment,ToxoGen,LinkedIn,San Jose CA,San Jose CA,Series B,No,Cell assays,https://linkedin.com/in/michaelchen
+Anita Rao,Director Hepatic Safety,NeoPharma,PubMed,San Diego CA,San Diego CA,Series C,Yes,3D spheroids,https://linkedin.com/in/anitarao
+David Brown,Senior Scientist,BioStart,Conference,Austin TX,Boston MA,Seed,No,Cell culture,https://linkedin.com/in/davidbrown
+Priya Nair,Director Toxicology,LiverAI,PubMed,London UK,London UK,Series B,Yes,In-vitro models,https://linkedin.com/in/priyan
+Robert Wilson,Principal Scientist,SafeMeds,Conference,Chicago IL,Chicago IL,Unfunded,No,NA,https://linkedin.com/in/robertw
+Emily Carter,Head of Safety Assessment,PharmaNext,LinkedIn,Basel Switzerland,Basel Switzerland,Series A,Yes,Organ-on-chip,https://linkedin.com/in/emilyc
+Rahul Mehta,Junior Scientist,EarlyBio,Conference,Bangalore India,Bangalore India,Unfunded,No,NA,https://linkedin.com/in/rahulm
+Laura Gomez,Director Preclinical Safety,TheraGen,LinkedIn,San Francisco CA,San Francisco CA,Series B,Yes,In-vitro models,https://linkedin.com/in/laurag
+James Anderson,Scientist,TinyBio,PubMed,Denver CO,Boulder CO,Seed,Yes,Cell culture,https://linkedin.com/in/jamesa
+Sophie Martin,VP Toxicology,OncoLiver,Conference,Paris France,Paris France,Series C,Yes,3D liver models,https://linkedin.com/in/sophiem
+Kevin Patel,Senior Research Scientist,BioLabsX,LinkedIn,New Jersey NJ,Boston MA,Series A,No,Cell assays,https://linkedin.com/in/kevinp
+Anna Fischer,Director Safety Assessment,HepaticSolutions,PubMed,Berlin Germany,Berlin Germany,Series B,Yes,Organ-on-chip,https://linkedin.com/in/annaf
+Mark Robinson,Junior Researcher,UniLab,PubMed,Oxford UK,Oxford UK,Grant,Yes,Academic research,https://linkedin.com/in/markr
