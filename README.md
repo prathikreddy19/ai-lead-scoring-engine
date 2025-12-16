@@ -1,4 +1,4 @@
-Lead Intelligence Pipeline – 3D In-Vitro Models
+##Lead Intelligence Pipeline – 3D In-Vitro Models
 
 This project is a demo lead-qualification system designed to identify, enrich, and rank life-science professionals based on their likelihood of working with 3D in-vitro models for drug and therapy development.
 
